@@ -1,2 +1,10 @@
 venv311/
 .venv/
+
+bert-fake-news-checkpoints/
+distilbert_results/
+modernbert-fake-news/
+modernBERT-final/
+distilBERT-final/
+classicBERT-final/
+Data/
